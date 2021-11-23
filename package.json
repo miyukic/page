@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "typescript": "^4.5.2"
+  },
+  "name": "react",
+  "version": "1.0.0",
+  "main": "like_button.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miyukic/page.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miyukic/page/issues"
+  },
+  "homepage": "https://github.com/miyukic/page#readme",
+  "description": ""
+}
